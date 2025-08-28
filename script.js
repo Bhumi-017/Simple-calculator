@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
   let initial_value = "";
 
-  // ✅ adjust font size dynamically
+
   function adjustFontSize() {
     let length = result.innerHTML.length;
     if (length <= 10) {

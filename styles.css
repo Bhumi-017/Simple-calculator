@@ -38,7 +38,7 @@ body {
   font-size: 2em;
   text-align: right;
   white-space: nowrap;
-  transition: font-size 0.2s ease; /* ✅ smooth resizing */
+  transition: font-size 0.2s ease; 
 }
 
 .buttons {
